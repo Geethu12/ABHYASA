@@ -1,7 +1,7 @@
 var canvas, backgroundImage;
 var kyoga1;
 var counter=0;
-var gameState =2;
+var gameState =0;
 var userCount, useremail;
 var allusers;
 var database;
